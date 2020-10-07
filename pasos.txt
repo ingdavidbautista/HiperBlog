@@ -3,5 +3,9 @@ primer paso 1
 2  paso
 2.1 paso
 3 paso
+<<<<<<< HEAD
 4 paso
 4.1 paso
+=======
+6 paso step
+>>>>>>> cabecera
